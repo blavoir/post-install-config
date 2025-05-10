@@ -83,7 +83,7 @@ In this example, I have created "Jane Doe" and "John Man" as agents. Jane is ass
 <img src="https://i.imgur.com/YokIKdL.gif" height="80%" width="80%" alt="SLAs"/>
 </p>
 <p>
-SLAs (Service Level Agreement) is a set of rules that define h ow quickly support staff should respond to and resolve tickets. Head over to Manage, under Manage go to SLA. Create a SLA plan and add in a number (in hours) of the grace period that you want. You can also create as many SLAs as per your organization policies as well as changing the schedules related to them. In this example, I have created 3 SLAs (Sev-A, Sev-B, Sev-C) with Sev-A being the most critical (1 hour grace period) to Sev-C being the least with (8 hour grace period done with business hours). 
+SLAs (Service Level Agreement) is a set of rules that define how quickly support staff should respond to and resolve tickets. Head over to Manage, under Manage go to SLA. Create a SLA plan and add a number (in hours) of the grace period that you want. You can also create as many SLAs as per your organization policies as well as changing the schedules related to them. In this example, I have created 3 SLAs (Sev-A, Sev-B, Sev-C) with Sev-A being the most critical (1 hour grace period) to Sev-C being the least with (8 hour grace period done with business hours). 
 </p>
 <br />
 
