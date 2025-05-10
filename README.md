@@ -50,7 +50,7 @@ Departments are used to organize tickets based on the subject matter or the type
 <img src="https://i.imgur.com/t8bWqRC.gif" height="80%" width="80%" alt="Team Creation"/>
 </p>
 <p>
-Teams are used to group staff members together so they can work collaborate on tickets across departments. Now head over to Teams. Click "Add New Team", give a name and add any members if necessary. Teams also have the option to be assigned a individual as a "Team Lead" and their status as being active or disabled. In this example, I will be creating a "Online Banking" team.
+Teams are used to group staff members together so they can work collaborate on tickets across departments. Now head over to Teams. Click "Add New Team", give a name and add any members if necessary. Teams also have the option to assign a individual as a "Team Lead" and their status as being active or disabled. In this example, I will be creating a "Online Banking" team.
 </p>
 <br />
 
