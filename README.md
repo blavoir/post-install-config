@@ -93,7 +93,7 @@ SLAs (Service Level Agreement) is a set of rules that define how quickly support
 <img src="https://i.imgur.com/puetAVi.gif" height="80%" width="80%" alt="Help Topics"/>
 </p>
 <p>
-Help Topics are used to categorize new tickets based on what the customer needs help with. They act as guided labels. Head over to Help Topics under the same tab Manage. Click "Add New Help Topic", Add a name and then create it. You have the option to have new tickets be set automatically with predefined settings as well as adding forms to them. You can also create link help topics within parent topics. In this example, I have created a category Report a Problem and several help topics such as Business Critical Outage, Personal Computer Issues and Equipment Request.  
+Help Topics are used to categorize new tickets based on what the customer needs help with. They act as guided labels. Head over to Help Topics under the same tab Manage. Click "Add New Help Topic", Add a name and then create it. You also have the option to have new tickets be set automatically with predefined settings as well as adding forms to them. You can also link help topics within parent topics. In this example, I have created a category Report a Problem and several help topics such as Business Critical Outage, Personal Computer Issues and Equipment Request.  
 </p>
 <p>There's a lot of tinkering that can be done with osTicket and I encourage to dive more into as osTicket is packed with many features. I've shown the some relevant settings that a organziation may be interested in setting up.</p>
 <br />
