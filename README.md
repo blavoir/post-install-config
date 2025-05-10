@@ -42,7 +42,7 @@ In osTicket, roles are used to define what staff members (agents) can do within 
 <img src="https://i.imgur.com/K1WaldW.gif" height="80%" width="80%" alt="Department Creation"/>
 </p>
 <p>
-Departments are used to organize tickets based on the subject matter or the type of support needed. Under the same tab, next to roles go to departments. Click "Add New Department", add a name, change its parameters if needed and add people that correspond with it. In this example, I will be creating a "SysAdmins" department. You can alo create sub-departments of another one via the Parent option.
+Departments are used to organize tickets based on the subject matter or the type of support needed. Under the same tab, next to roles go to departments. Click "Add New Department", add a name, change its parameters if needed and add people that correspond with it. In this example, I will be creating a "SysAdmins" department. You can also create sub-departments of another one via the Parent option.
 </p>
 <br />
 
