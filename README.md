@@ -97,3 +97,5 @@ Help Topics are used to categorize new tickets based on what the customer needs 
 </p>
 <p>There's a lot of tinkering that can be done with osTicket and I encourage to dive more into as osTicket is packed with many features. I've shown the some relevant settings that a organziation may be interested in setting up.</p>
 <br />
+
+[Ticket Examples](https://github.com/blavoir/ticket-lifecycle)
